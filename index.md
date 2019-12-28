@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <body>
-<h1> TEST </h1>
-<p> I am testing... </p>
+<h1> THEA VANESSA AVILA</h1>
+<p> Projects and misc.  </p>
 </body>
 </html>
